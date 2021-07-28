@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "9e612e5957ec9258",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc95ac5ac37afe68",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e53f7ebc03b59bbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac5478498714fdd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f1db802c42a9761",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd20f4d6b6ca39a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "604b3cc031e8d28b",
+    "type": "split",
+    "children": [
+      {
+        "id": "be888ebce21b7140",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c362252840129b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cc95ac5ac37afe68",
+  "lastOpenFiles": [
+    "README.md",
+    "CONTRIBUTING.md",
+    "exampleSite/content/_index.md",
+    "archetypes/page.md",
+    "archetypes/post.md",
+    "exampleSite/content/post/new.md",
+    "images/screenshot.png",
+    "images/tn.png",
+    "exampleSite/content/post/tufte-features.md",
+    "exampleSite/content/post/nodate.md"
+  ]
+}

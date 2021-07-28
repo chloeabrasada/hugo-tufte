@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "bba7b251b2ad9d96",
+    "type": "split",
+    "children": [
+      {
+        "id": "1966c779e9c12be9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "post/nodate.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49dee62d182c55d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "209e37984504c9fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9110e43dc68f7490",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf41d40a058f0acb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bcd127f311a1ec1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "14bde83c7dece148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43710b85c2e64396",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "post/nodate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1966c779e9c12be9",
+  "lastOpenFiles": [
+    "post/nodate.md",
+    "post/blockquote.md",
+    "_index.md",
+    "post/tufte-features.md",
+    "post/more-maths.md"
+  ]
+}
